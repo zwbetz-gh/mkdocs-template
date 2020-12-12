@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Home # TODO","title":"Home"},{"location":"#home","text":"TODO","title":"Home"}]}
+{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Home # Welcome to mkdocs-template . The no-excuses template to document your project.","title":"Home"},{"location":"#home","text":"Welcome to mkdocs-template . The no-excuses template to document your project.","title":"Home"}]}
