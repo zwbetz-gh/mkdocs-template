@@ -9,7 +9,7 @@ The no-excuses template to document your project. Powered by [MkDocs](https://ww
 ## One-Time Setup
 
 1. Fork or [download a zip](https://github.com/zwbetz-gh/mkdocs-template/archive/main.zip) of this repo
-1. Install `python3` and `pip3`
+1. Install `python3` (which should include `pip3`)
 1. Install requirements
 
         pip3 install -r requirements.txt
