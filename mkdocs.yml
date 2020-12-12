@@ -2,6 +2,7 @@ site_name: MkDocs Template
 site_description: The no-excuses template to document your project
 site_url: https://zwbetz-gh.github.io/mkdocs-template/
 repo_url: https://github.com/zwbetz-gh/mkdocs-template
+edit_uri: edit/main/docs/
 theme:
   name: material
   feature:
