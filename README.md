@@ -4,7 +4,7 @@ TODO
 
 ## View Published Docs
 
-TODO
+<https://zwbetz-gh.github.io/mkdocs-template/>
 
 ## One-Time Setup
 
