@@ -1,0 +1,21 @@
+site_name: MkDocs Template
+site_description: The no-excuses template to document your project
+# site_url: https://pages.git.uscis.dhs.gov/USCIS/rfs-fdnsds-mod-docs/
+repo_url: https://github.com/zwbetz-gh/mkdocs-template
+theme:
+  name: material
+  feature:
+    tabs: false
+  palette:
+    primary: indigo
+    accent: indigo
+extra_css:
+  - css/extra.css
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: '#'
+nav:
+  - index.md
