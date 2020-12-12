@@ -1,6 +1,6 @@
 # MkDocs Template
 
-TODO
+The no-excuses template to document your project. Powered by [MkDocs](https://www.mkdocs.org/), [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), and [GitHub Pages](https://pages.github.com/).
 
 ## View Published Docs
 
@@ -8,6 +8,7 @@ TODO
 
 ## One-Time Setup
 
+1. Fork or [download a zip](https://github.com/zwbetz-gh/mkdocs-template/archive/main.zip) of this repo
 1. Install `python3` and `pip3`
 1. Install requirements
 
